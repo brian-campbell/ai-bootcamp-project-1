@@ -17,6 +17,10 @@
 
 [CDC NNDSS Weekly Disease Data](https://data.cdc.gov/NNDSS/NNDSS-Weekly-Data/x9gk-5huc/about_data)
 
+[Cleveland Weather Data](https://www.weather.gov/wrh/Climate?wfo=cle)
+
+[Columbus & Cincinnati Weather Data](https://www.weather.gov/wrh/Climate?wfo=iln)
+
 ## Files
 
 ## Technical requirements
