@@ -15,6 +15,8 @@
 
 ## Data Source
 
+[CDC NNDSS Weekly Disease Data](https://data.cdc.gov/NNDSS/NNDSS-Weekly-Data/x9gk-5huc/about_data)
+
 ## Files
 
 ## Technical requirements
