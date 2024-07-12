@@ -12,6 +12,8 @@
 ## Overview
 
 ## Background
+### EDA Questions/Topic
+Is there a correlation between influenza and min/max temperatures or other weather datapoints?
 
 ## Data Source
 
