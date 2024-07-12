@@ -1,7 +1,7 @@
 import requests
 import json
 
-google_maps_api_key = "AIzaSyDH8TPPimkLZ3mM6sAHNngq5OvRpo1iiic"
+google_maps_api_key = "ADD KEY HERE"
 
 
 def geo_to_city ( geo_string ):
