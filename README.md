@@ -23,6 +23,8 @@ Is there a correlation between influenza and min/max temperatures or other weath
 
 [Columbus & Cincinnati Weather Data](https://www.weather.gov/wrh/Climate?wfo=iln)
 
+[Ohio influenza data](https://odh.ohio.gov/know-our-programs/seasonal-influenza/ohio-flu-activity/ohio-flu-activity)
+
 ## Files
 
 ## Technical requirements
