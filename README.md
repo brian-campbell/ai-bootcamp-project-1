@@ -13,7 +13,10 @@
 
 ## Background
 ### EDA Questions/Topic
-Is there a correlation between influenza and min/max temperatures or other weather datapoints?
+#### Data explored is for Columbus, Cleveland, and Cincinnati
+1. Do the number of influenza hospitalizations rise with falling temperatues?
+2. Does the weather data show a warming trend over 40 years?
+3. Are weather trends related to population growth/decrease?
 
 ## Data Source
 
