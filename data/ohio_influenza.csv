@@ -1,4 +1,4 @@
-year,week,Week Start,Week End,cuyahoga_cum,franklin_cum,hamilton_cum,cuyahoga_per_month,franklin_per_month,hamilton_per_month
+year,week,Week Start,Week End,cuyahoga_cum,franklin_cum,hamilton_cum,cuyahoga_per_week,franklin_per_week,hamilton_per_week
 2017,40,10/1/2017,10/7/2017,0,0,1,0,0,1
 2017,41,10/8/2017,10/14/2017,0,1,1,0,1,0
 2017,42,10/15/2017,10/21/2017,1,3,1,1,2,0
