@@ -26,6 +26,8 @@
 
 [Ohio influenza data](https://odh.ohio.gov/know-our-programs/seasonal-influenza/ohio-flu-activity/ohio-flu-activity)
 
+[Ohio Census data](https://data.census.gov/)
+
 ## Files
 
 Ohio Influenza Hospitalizations, [ohio_influenza.csv](https://github.com/brian-campbell/ai-bootcamp-project-1/blob/main/data/ohio_influenza.csv)
