@@ -7,7 +7,7 @@
 *  [**Files**](#files)
 *  [**Technical Requirements**](#technical-requirements)
 *  [**Run the code**](#run-the-code)
-*  [**Requirements and Solution**](#requirements-and-solution)
+*  [**Credits**](#credits)
 
 ## Overview
 
@@ -34,4 +34,7 @@
 
 ## Run the code
 
-## Requirements and Solution
+## Credits
+### Mike Saunders
+### Ryan Donegan
+### Brian Campbell
