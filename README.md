@@ -44,7 +44,7 @@ Ohio Census 2010-2019, [census_2010-2019.csv](https://github.com/brian-campbell/
 
 Ohio Census 2020-2023, [census_2020-2023.csv](https://github.com/brian-campbell/ai-bootcamp-project-1/blob/main/data/census_2020-2023.csv)
 
-Influenza & Weather jupyiter notebook [project-1-mike-2.ipynb](https://github.com/brian-campbell/ai-bootcamp-project-1/blob/main/project-1-mike-2.ipynb)
+Influenza & Weather jupyiter notebook [influenza_analysis.ipynb](https://github.com/brian-campbell/ai-bootcamp-project-1/blob/main/influenza_analysis.ipynb)
 
 ## Technical requirements
 
