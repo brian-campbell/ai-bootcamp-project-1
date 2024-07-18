@@ -1,4 +1,4 @@
-# AI Bootcamp - Project 1
+# AI Bootcamp - Project 1.  Investigating the impact of weather and influenza as well as population growth
 
 ## Table of Contents
 *  [**Background**](#background)
