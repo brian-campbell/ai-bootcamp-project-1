@@ -51,6 +51,7 @@ Influenza & Weather jupyiter notebook [influenza_analysis.ipynb](https://github.
 This repository contains three directories: data, util, and oldfiles. The `data` directory contains various files that hold the data that the team obtained for the project. The `util` directory contains some utility code that may or maynot be used within the project. The `oldfiles` directory contains files that were created as part of the project but not used in the final solution (they were kept for historical purposes and just in case team members wanted to go back and look at old code).
 
 ## Technical requirements
+The EDA was done using Jupyter Notebooks. This requires pythons (at least 3.10), Jupyter Notebooks, anaconda, pandas, matplotlib, Prophet, and the pytz. 
 
 ## Run the code
 
