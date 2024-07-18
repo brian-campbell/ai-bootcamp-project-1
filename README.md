@@ -12,6 +12,8 @@
 ## Overview
 
 ## Background
+The goal of this project is to perform an analysis on weather data combined with influenza hospitalization data and census data.  All data sets are specific to Columbus, Cleveland, and Cincinnati Ohio. This Exploratory Data Analysis (EDA) looks at data on the three topics for the three cities. The goal is to determine if there are any discernible patterns or relationships contained within the data. 
+
 ### EDA Questions/Topic
 #### Data explored is for Columbus, Cleveland, and Cincinnati
 1. Do the number of influenza hospitalizations rise with falling temperatues?
