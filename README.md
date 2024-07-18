@@ -57,7 +57,7 @@ The EDA was done using Jupyter Notebooks. This requires pythons (at least 3.10),
 The code can be executed inside of an IDE or with Google Collab. Team members all built and executed the project using Visual Studio Code. All necessary libraries are pre-installed, outside of the IDE, but 
 
 All project Jupyter Nodebooks use a similar import block of code to set up projects to be able to analyze and use the data:
-![Screenshot 2024-07-18 at 5 12 56 PM](https://github.com/user-attachments/assets/516613fb-e6ce-4501-b87c-835781654cf0)
+![Screenshot 2024-07-18 at 5 17 30 PM](https://github.com/user-attachments/assets/c259aa45-0983-49f9-ac90-d2ee39b419e5)
 
 Each Notebook and be executed by clicking on the `Run All` button at the top of each Notebook:
 ![Screenshot 2024-07-18 at 5 14 46 PM](https://github.com/user-attachments/assets/7727ead6-9528-4908-b41c-477717aafb62)
