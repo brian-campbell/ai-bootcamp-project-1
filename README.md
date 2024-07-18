@@ -34,7 +34,7 @@
 
 ## Run the code
 
-### Credits
-## Mike Saunders
-## Ryan Donegan
-## Brian Campbell
+## Credits
+### Mike Saunders
+### Ryan Donegan
+### Brian Campbell
