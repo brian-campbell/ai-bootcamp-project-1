@@ -34,4 +34,7 @@
 
 ## Run the code
 
-## Requirements and Solution
+## Credits
+Mike Saunders
+Ryan Donegan
+Brian Campbell
