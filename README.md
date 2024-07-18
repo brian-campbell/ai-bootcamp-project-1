@@ -59,6 +59,9 @@ The code can be executed inside of an IDE or with Google Collab. Team members al
 All project Jupyter Nodebooks use a similar import block of code to set up projects to be able to analyze and use the data:
 ![Screenshot 2024-07-18 at 5 12 56 PM](https://github.com/user-attachments/assets/516613fb-e6ce-4501-b87c-835781654cf0)
 
+Each Notebook and be executed by clicking on the `Run All` button at the top of each Notebook:
+![Screenshot 2024-07-18 at 5 14 46 PM](https://github.com/user-attachments/assets/99cda60e-080c-4c9b-9f87-f6b153511923)
+
 
 ## Credits
 ### Mike Saunders
