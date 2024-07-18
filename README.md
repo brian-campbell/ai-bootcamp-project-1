@@ -9,8 +9,6 @@
 *  [**Run the code**](#run-the-code)
 *  [**Credits**](#credits)
 
-## Overview
-
 ## Background
 The goal of this project is to perform an analysis on weather data combined with influenza hospitalization data and census data.  All data sets are specific to Columbus, Cleveland, and Cincinnati Ohio. This Exploratory Data Analysis (EDA) looks at data on the three topics for the three cities. The goal is to determine if there are any discernible patterns or relationships contained within the data. 
 
@@ -21,8 +19,6 @@ The goal of this project is to perform an analysis on weather data combined with
 3. Are weather trends related to population growth/decrease?
 
 ## Data Source
-
-[CDC NNDSS Weekly Disease Data](https://data.cdc.gov/NNDSS/NNDSS-Weekly-Data/x9gk-5huc/about_data)
 
 [Ohio Weather for Columbus, Cincinnati, and Cleveland](https://openweathermap.org/)
 
@@ -48,13 +44,17 @@ Ohio Census 2020-2023, [census_2020-2023.csv](https://github.com/brian-campbell/
 
 Influenza & Weather jupyter notebook [influenza_analysis.ipynb](https://github.com/brian-campbell/ai-bootcamp-project-1/blob/main/influenza_analysis.ipynb)
 
+Census analysis
+
+Weather analysis
+
 This repository contains three directories: data, util, and oldfiles. The `data` directory contains various files that hold the data that the team obtained for the project. The `util` directory contains some utility code that may or maynot be used within the project. The `oldfiles` directory contains files that were created as part of the project but not used in the final solution (they were kept for historical purposes and just in case team members wanted to go back and look at old code).
 
 ## Technical requirements
-The EDA was done using Jupyter Notebooks. This requires pythons (at least 3.10), Jupyter Notebooks, anaconda, pandas, matplotlib, Prophet, and the pytz.
+The EDA was done using Jupyter Notebooks. This requires python (at least 3.10), Jupyter Notebooks, anaconda, pandas, matplotlib, Prophet, datetime, and the pytz.
 
 ## Run the code
-The code can be executed inside of an IDE or with Google Collab. Team members all built and executed the project using Visual Studio Code. All necessary libraries are pre-installed, outside of the IDE, but 
+The code can be executed inside of an IDE or within Google Colab. Team members all built and executed the project using Visual Studio Code. All necessary libraries are pre-installed, outside of the IDE.
 
 All project Jupyter Nodebooks use a similar import block of code to set up projects to be able to analyze and use the data:
 ![Screenshot 2024-07-18 at 5 17 30 PM](https://github.com/user-attachments/assets/c259aa45-0983-49f9-ac90-d2ee39b419e5)
