@@ -43,9 +43,9 @@ Ohio Census 2020-2023, [census_2020-2023.csv](https://github.com/brian-campbell/
 
 Influenza & Weather jupyter notebook [influenza_analysis.ipynb](https://github.com/brian-campbell/ai-bootcamp-project-1/blob/main/influenza_analysis.ipynb)
 
-Census analysis
+Census analysis jupyter notebook [census_analysis.ipynb](https://github.com/brian-campbell/ai-bootcamp-project-1/blob/main/census_analysis.ipynb)
 
-Weather analysis
+Weather trend analysis jupyter notebook [ryans project.ipynb](https://github.com/brian-campbell/ai-bootcamp-project-1/blob/main/ryans%20project.ipynb)
 
 This repository contains three directories: data, util, and oldfiles. The `data` directory contains various files that hold the data that the team obtained for the project. The `util` directory contains some utility code that may or maynot be used within the project. The `oldfiles` directory contains files that were created as part of the project but not used in the final solution (they were kept for historical purposes and just in case team members wanted to go back and look at old code).
 
@@ -61,7 +61,7 @@ All project Jupyter Nodebooks use a similar import block of code to set up proje
 Each Notebook and be executed by clicking on the `Run All` button at the top of each Notebook:
 ![Screenshot 2024-07-18 at 5 14 46 PM](https://github.com/user-attachments/assets/7727ead6-9528-4908-b41c-477717aafb62)
 
-
+The final presentation will be presented in PowerPoint.  The file can be found [here](https://github.com/brian-campbell/ai-bootcamp-project-1/blob/main/Project-1-Presentation.pptx)
 
 ## Credits
 ### Mike Saunders
