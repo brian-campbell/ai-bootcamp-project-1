@@ -1,7 +1,6 @@
 # AI Bootcamp - Project 1
 
 ## Table of Contents
-*  [**Overview**](#overview)
 *  [**Background**](#background)
 *  [**Data Source**](#data-source)
 *  [**Files**](#files)
